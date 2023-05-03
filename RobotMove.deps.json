@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RobotMove/1.0.0": {
+        "dependencies": {
+          "ReadmePackage": "2.0.0"
+        },
+        "runtime": {
+          "RobotMove.dll": {}
+        }
+      },
+      "ReadmePackage/2.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/ReadmePackage.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RobotMove/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadmePackage/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uwhNZCAeguoN20dy6I3OE1ArGEWMZrmqlc/8A30tvXm6V/uezfU14/3fZUr88TDYy+10RlXYg9dzhemS9zPfDA==",
+      "path": "readmepackage/2.0.0",
+      "hashPath": "readmepackage.2.0.0.nupkg.sha512"
+    }
+  }
+}
