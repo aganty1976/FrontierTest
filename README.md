@@ -7,7 +7,7 @@ Download the code from the github location provided or can be opened in visual s
 
 Download the complete zip file of the code.
 
-Run the Console Application and enter the operations below
+Run the Console Application and enter the operations below PLAY or the test moves created.
 
 PLAY - Interactive console application with user inputs in the console and prints out the exact co-ordinates and the facing the Robot.
 
