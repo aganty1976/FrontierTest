@@ -1,7 +1,7 @@
 # FrontierTest
 FrontierTest
 
-Download the code from the github location provided
+Download the code from the github location provided or can be opened in visual studio directly from the location
 
 Run the Console Application and enter the operations below
 
