@@ -1,5 +1,5 @@
 # FrontierTest
-FrontierTest
+FrontierTest - This is just a console app showing the co-ordinates and facing after each move, there is no UI
 
 Pre-Requisites .Netcore 6.0 and preferably VS 2022 to open and run the solution
 
