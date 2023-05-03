@@ -1,6 +1,8 @@
 # FrontierTest
 FrontierTest
 
+Pre-Requisites .Netcore 6.0 and preferably VS 2022 to open and run the solution
+
 Download the code from the github location provided or can be opened in visual studio directly from the location
 
 Download the complete zip file of the code.
