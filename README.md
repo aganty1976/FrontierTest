@@ -3,6 +3,8 @@ FrontierTest
 
 Download the code from the github location provided or can be opened in visual studio directly from the location
 
+Download the complete zip file of the code.
+
 Run the Console Application and enter the operations below
 
 PLAY - Interactive console application with user inputs in the console and prints out the exact co-ordinates and the facing the Robot.
